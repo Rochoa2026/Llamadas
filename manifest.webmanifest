@@ -1,0 +1,1 @@
+{"id":"./","name":"Registro Inteligente de Llamadas","short_name":"Mis Llamadas","description":"Historial de llamadas, audio, transcripciones y resúmenes","start_url":"./","scope":"./","display":"standalone","background_color":"#f3f6fb","theme_color":"#13284c","icons":[{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
